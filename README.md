@@ -404,5 +404,3 @@ word-wrap: break-word
 
 ## Result:
 The Program code is runned and successfully executed.
-
-
